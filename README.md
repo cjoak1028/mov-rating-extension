@@ -13,5 +13,5 @@
 #### - Given input: Movie name, etc -> output: scores
 #### - * Being able to fetch necessary data from the page (input)*
 
-IMDb API: https://developer.imdb.com/
-Rotten Tomatoes API: https://developer.fandango.com/rotten_tomatoes
+##### IMDb API: https://developer.imdb.com/
+##### Rotten Tomatoes API: https://developer.fandango.com/rotten_tomatoes
