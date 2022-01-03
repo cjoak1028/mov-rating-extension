@@ -15,3 +15,7 @@
 
 ##### IMDb API: https://developer.imdb.com/
 ##### Rotten Tomatoes API: https://developer.fandango.com/rotten_tomatoes
+
+### Next Meeting
+#### Subscribe to IMDb
+#### Submit Business Proposal Form to Rotten Tomatoes
