@@ -2,4 +2,5 @@
 
 ## Project Plan
 ### Chang-ju
-#### 
+### Junhyeok
+#### yolo
