@@ -1,3 +1,4 @@
+// Popup content changes depending on tab url
 chrome.tabs.onActivated.addListener(activeTab => {
     chrome.tabs.get(activeTab.tabId, (tab) => {
         console.log(tab.url);
