@@ -1,0 +1,9 @@
+{
+  "name": "MovRating",
+  "description": "Display IMDB ratings on your favorite streaming service",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
